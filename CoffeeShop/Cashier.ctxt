@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Cashier
+comment1.params=c
+comment1.target=Cashier(double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Cashier\n
+comment2.params=p1\ p2\ random
+comment2.target=double\ serve(double,\ double,\ java.util.Random)
+comment2.text=\n\ A\ serve\ method\ -\ calculate\ the\ profit\ of\ serving\ customer.\n\ @param\ \ p1\ -\ a\ double\ number\ which\ will\ read\ from\ an\ input\ file.\n\ @param\ \ p2\ -\ a\ double\ number\ which\ will\ read\ from\ an\ input\ file.\n\ @param\ \ random\ -\ used\ the\ random\ number\ generator.\n\n\ @return\ -returning\ the\ calculated\ profit.\n
+numComments=3

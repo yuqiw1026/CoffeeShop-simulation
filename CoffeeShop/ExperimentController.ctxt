@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment1.params=
+comment1.target=ExperimentController()
+comment1.text=\n\ Constructor\ for\ experiment\ controller\n
+comment2.params=arg
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=void\ run()
+comment3.text=\n\ A\ run\ method\ -\ run\ the\ coffee\ shop\ simulation\ for\ different\ trails\ by\ varying\ the\ number\ of\ cashiers\ hired\ in\ the\ shop\ \n
+numComments=4

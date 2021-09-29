@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Coffeeshop
+comment1.params=
+comment1.target=Coffeeshop()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Coffeeshop\n
+comment2.params=eventSet\ s\ p1\ p2\ c\ st1\ st2
+comment2.target=void\ run(java.util.PriorityQueue,\ int,\ double,\ double,\ double,\ int,\ int)
+comment2.text=\n\ An\ run\ method\ -\ Run\ the\ simulation\ of\ coffee\ shop\n\ @param\ \ eventset-\ a\ list\ of\ event\ that\ will\ pending\ in\ order\ of\ time\n\ @param\ \ numberofcashier-\ number\ of\ cashier\ staffed\ at\ the\ shop\n\ @param\ \ p1,p2-\ upper\ bound\ and\ lower\ bound\ of\ profit\ earned\ by\ each\ cashie\n\ @param\ \ c-\ the\ cost\ paid\ to\ each\ cashie\ for\ a\ whole\ day\n\ @param\ \ st1,st2-\ upper\ bound\ and\ lower\ bound\ of\ serving\ time\ of\ each\ customer\n
+numComments=3

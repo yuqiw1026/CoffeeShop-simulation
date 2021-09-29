@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=st1\ st2\ random
+comment1.target=Customer(int,\ int,\ java.util.Random)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Customer\n
+comment2.params=
+comment2.target=int\ waittime()
+comment2.text=\n\ A\ waittime\ method\ -\ calculate\ the\ waiting\ time\ of\ each\ customer.\n\n\ @return\ -\ the\ calculated\ waiting\ time\ of\ each\ customer.\n
+numComments=3

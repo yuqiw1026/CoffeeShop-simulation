@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Depart
+comment0.text=\n\ A\ depart\ class\ stores\ objetcs\ of\ depart\ event.\n\n\ @author\ (Yuqi\ wang)\n\ @version\ (11/3/2020)\n
+comment1.params=t
+comment1.target=Depart(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ depart\n
+numComments=2
